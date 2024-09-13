@@ -8,9 +8,9 @@ In the example, terraform will store the state in s3 bucket.
 In this example, variables are defined in a separate file. 
 
 To overwrite the default variable values from commandline.
-`
+~~~
 terraform apply -var="ec2_instance_type=t3.medium"
-`
+~~~
 
 To pass the variable values from a separate file
 ~~~
