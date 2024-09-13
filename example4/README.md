@@ -8,4 +8,4 @@ In the example, terraform will store the state in s3 bucket.
 In this example, variables are defined in a separate file. 
 
 # Example 4
-Beginning of Terraform modules
+Example of how to create terraform module and store locally
